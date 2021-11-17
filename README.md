@@ -1,2 +1,2 @@
 # Pong-Game
-A simple pong game I built using Python and Tkinter
+A simple pong game I built using Python and Turtle.
